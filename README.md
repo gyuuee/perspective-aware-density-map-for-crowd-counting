@@ -17,11 +17,12 @@ It is worth noting that the initial Gaussian kernel standard deviation in the co
 值得注意的是，代码中初始的高斯核标准差在直观感觉上被设置为25，该参数可以调节，也许能得到更好的结果
 
 # Using
-*The code needs to read the image size information and point annotation information of the ShanghaiTech PartA dataset.
+* First, you need to set the 'root' path in the code.
+* Then, the code needs to read the image size information and point annotation information of the ShanghaiTech PartA dataset.
 
 代码需要读取ShanghaiTech PartA 数据集的图片大小信息以及点标注信息。
 
-*The code will generate a perspective-aware density map in the ground_truth folder. If the true value density map of the picture already exists, the processing of the perspective-aware  density map will be skipped.
+* The code will generate a perspective-aware density map in the ground_truth folder. If the true value density map of the picture already exists, the processing of the perspective-aware  density map will be skipped.
 
 代码会在ground_truth文件夹下生成透视感知密度图，如果该图片的真值密度图已存在，将会跳过对该图片透视感知密度图的处理。
    
