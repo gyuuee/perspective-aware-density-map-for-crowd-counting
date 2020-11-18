@@ -18,7 +18,7 @@ It is worth noting that the initial Gaussian kernel standard deviation in the co
 # References
 If you find the our method useful, please cite our paper. Thank you!
 
-···
+```
 @inproceedings{perspective-ware_map,
 author = {Gu, Yue},
 title = {Perspective-Aware Distillation-Based Crowd Counting},
@@ -26,4 +26,4 @@ year = {2020},
 booktitle = {Proceedings of the 2020 4th International Conference on Deep Learning Technologies (ICDLT)},
 pages = {123–128},
 }
-···
+```
