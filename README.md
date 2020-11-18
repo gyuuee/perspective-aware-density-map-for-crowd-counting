@@ -13,6 +13,7 @@ This project code only provides a method for generating a perspective perception
 本项目代码仅列出在ShanghaiTech PartA数据集上的透视感知密度图生成方法。
 
 It is worth noting that the initial Gaussian kernel standard deviation in the code is intuitively set to 25. This parameter can be adjusted, and better results may be obtained.
+
 值得注意的是，代码中初始的高斯核标准差在直观感觉上被设置为25，该参数可以调节，也许能得到更好的结果
    
 # References
