@@ -12,8 +12,9 @@ This project code only provides a method for generating a perspective perception
 It is worth noting that the initial Gaussian kernel standard deviation in the code is intuitively set to 25. This parameter can be adjusted, and better results may be obtained.
 值得注意的是，代码中初始的高斯核标准差在直观感觉上被设置为25，该参数可以调节，也许能得到更好的结果
    
-#References
+# References
 If you find the our method useful, please cite our paper. Thank you!
+
 @inproceedings{10.1145/3417188.3417195,
 author = {Gu, Yue},
 title = {Perspective-Aware Distillation-Based Crowd Counting},
